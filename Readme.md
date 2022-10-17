@@ -21,3 +21,7 @@ o problema?
 4. O time de desenvolvimento analisou e descobriu que o projeto está gerando arquivos pesados e desnecessários para serem commitados no repositóriogit. Em qual arquivo você deve incluir a lista de extensões para queesses arquivos desnecessários sejam desconsiderados?
     
     Um arquivo gitignore deve ser colocado no diretorio raiz de um projeto.
+
+5. José foi promovido de seu cargo anterior e se tornou o novo Product Owner do time, quais são suas novas responsabilidades como PO?
+
+   Suas funcoes sao basicamente, definir a visao e as funcionalidades do produto, definir as prioridades da equipe, elaborar e manter o product backlog e decidir sobre a data de lancamentos do produto.
