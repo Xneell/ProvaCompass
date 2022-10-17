@@ -25,3 +25,9 @@ o problema?
 5. José foi promovido de seu cargo anterior e se tornou o novo Product Owner do time, quais são suas novas responsabilidades como PO?
 
    Suas funcoes sao basicamente, definir a visao e as funcionalidades do produto, definir as prioridades da equipe, elaborar e manter o product backlog e decidir sobre a data de lancamentos do produto.
+
+6. Instrucoes para fazer o quiz: Primeiro passo é responder seu nome de usuario para o sistema devolver essa informacao no final e o segundo passo é responder as 5 questoes de matematica do quiz, colocando em letra maiscula a resposta escolhida. No final o sistema ira mostrar seus erros e acertos com o nome do usuario.
+
+7. Instrucoes para o login:  Primeiro passo é digitar o login e a senha, por teste o login é admin e a senha é admin11, apos isso o sistema vai mostrar o demonstrar o horario logado e dar saudacao conforme ele. Caso o usuario erre a senha o sistema vai dizer que a senha ou o login estao errados e voce podera conferir no array de demonstracao o que foi digitado errado.
+
+8. Instrucoes para calcular a bonificacao da empresa: Primeiro passo colocar o numero de funcionarios empresa, com isso vai pedir a informacoes deles como o nome e o salario. Apos isso o sistema ira mostrar o nome do funcionario junto com um array de informacoes utilizadas para calcular e por fim o salario liquido para informar e pagar o funcionario.
