@@ -17,3 +17,7 @@ cerimônias:
 o problema?
 
     Ocorre esse comando pois o arquivo ainda nao foi commitado pelo git. Para resolver isso devera ser usado o comando git add com o nome dos arquivos.
+
+4. O time de desenvolvimento analisou e descobriu que o projeto está gerando arquivos pesados e desnecessários para serem commitados no repositóriogit. Em qual arquivo você deve incluir a lista de extensões para queesses arquivos desnecessários sejam desconsiderados?
+    
+    Um arquivo gitignore deve ser colocado no diretorio raiz de um projeto.
