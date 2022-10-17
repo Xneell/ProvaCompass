@@ -13,3 +13,7 @@ cerimônias:
 
    É um modelo de trabalho em grupo com o objetivo de organizar as demandas propostas e executar tarefas, a fim de agilizar o tempo com entregas rapidas e com um alto nivel de qualidade, alem de manter o foco no cliente e na entrega de valor.
 
+3. Por que esse “erro” de “Untracked files” ocorreu e qual comando resolveria
+o problema?
+
+    Ocorre esse comando pois o arquivo ainda nao foi commitado pelo git. Para resolver isso devera ser usado o comando git add com o nome dos arquivos.
