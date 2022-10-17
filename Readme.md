@@ -9,3 +9,7 @@ cerimônias:
 
     Retrospectiva: Duracao de 3hrs para uma sprint de 1 mes.
 
+2. Para que serve e como funciona o Framework Scrum?
+
+   É um modelo de trabalho em grupo com o objetivo de organizar as demandas propostas e executar tarefas, a fim de agilizar o tempo com entregas rapidas e com um alto nivel de qualidade, alem de manter o foco no cliente e na entrega de valor.
+
